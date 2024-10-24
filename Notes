@@ -1,0 +1,6 @@
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+terraform destroy -target RESOURCE_TYPE.NAME
+terraform refresh
